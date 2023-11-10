@@ -1,6 +1,6 @@
 ---
 layout: blog
-home-title: Welcome to zhonger's blog!
+home-title: Welcome to ynsc's blog!
 description: Writing, writing, writing ...
 pagination:
     enabled: true
