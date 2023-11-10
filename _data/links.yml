@@ -12,7 +12,7 @@ links:
     img: "/assets/icons/default.svg"
     url: "https://nav.lisz.me"
 friends:
-  - name: "烧饼博客"
+  - name: "博客"
     info: "服务器运维、专业域名投资分析"
     img: "https://s3.rsb.net/apple-touch-icon.png"
     url: "https://u.sb/"
