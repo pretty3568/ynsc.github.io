@@ -7,7 +7,7 @@ permalink: /tos
 
 # 本站使用条款
 
-&emsp;&emsp;Mr Li（[https://lisz.me](https://lisz.me)），以下简称“本站”（包括本站的镜像站）。
+&emsp;&emsp;Mr Li（[https://ynsc.cf)），以下简称“本站”（包括本站的镜像站）。
 
 ## 隐私政策
 
