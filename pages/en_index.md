@@ -1,6 +1,6 @@
 ---
 layout: page
-home-title: Welcome to zhonger's blog!
+home-title: Welcome to ynsc's blog!
 description: Writing, writing, writing ...
 permalink: /en/index.html
 langs: ["zh-Hans", "en"]
